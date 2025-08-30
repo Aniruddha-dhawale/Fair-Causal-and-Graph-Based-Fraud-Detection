@@ -1,4 +1,4 @@
-# Fair, Causal, and Graph-Based Fraud Detection
+# Causal Fairness Fraud Model
 This project presents a comprehensive pipeline for building a financial fraud detection model that is not only accurate but also interpretable and fair. Moving beyond traditional classification, this work integrates graph-based feature engineering, causal inference, and algorithmic fairness auditing to create a more robust and responsible machine learning system.
 
 Precision-Recall Curve of the baseline model, achieving a high AUPRC of 0.8761.
