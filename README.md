@@ -6,7 +6,7 @@ Precision-Recall Curve of the baseline model, achieving a high AUPRC of 0.8761.
 # Core Findings
 This project is structured around three key analytical pillars:
 
-## 📈 Predictive Modeling with Graph Embeddings
+## Predictive Modeling with Graph Embeddings
 A transaction network graph was constructed from the data, and Node2Vec was used to generate powerful node embeddings for both transaction originators and destinations.
 
 A baseline LightGBM model enriched with these graph features achieved an excellent AUPRC of 0.876.
